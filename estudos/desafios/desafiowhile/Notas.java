@@ -19,6 +19,8 @@ public class Notas {
             } else if (nota == -1){
                 System.out.println("Finalizado coleta de notas");
                 exit = (int) nota;
+            } else {
+                System.out.println("Nota inválida");
             }
 
          }

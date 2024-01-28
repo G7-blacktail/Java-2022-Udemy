@@ -1,4 +1,4 @@
-package desafios.IMC;
+package IMC;
 
 import javax.swing.JOptionPane;
 

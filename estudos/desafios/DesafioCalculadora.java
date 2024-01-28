@@ -1,5 +1,3 @@
-package desafios;
-
 import javax.swing.JOptionPane;
 
 public class DesafioCalculadora {

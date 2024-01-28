@@ -1,4 +1,4 @@
-package desafios.ConverterFahrenheit;
+package ConverterFahrenheit;
 
 import javax.swing.JOptionPane;
 

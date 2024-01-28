@@ -1,4 +1,4 @@
-package areadotriangulo;
+package AreaDoTriangulo;
 
 import javax.swing.JOptionPane;
 

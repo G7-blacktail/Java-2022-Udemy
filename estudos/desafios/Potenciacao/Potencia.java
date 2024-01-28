@@ -1,4 +1,4 @@
-package desafios.Potenciacao;
+package Potenciacao;
 
 import javax.swing.JOptionPane;
 
